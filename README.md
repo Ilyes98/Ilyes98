@@ -1,5 +1,5 @@
-# Hi, I'm Ilyes Belfekih :wave:
-I'm a full-stuck developer based in Paris.
+# Hi, I'm [Ilyes Belfekih] :wave:
+I'm a full-stuck developer based in Paris :fr: .
 
 [LinkedIn](https://www.linkedin.com/in/ilyes-belfekih-855295182/)
 
