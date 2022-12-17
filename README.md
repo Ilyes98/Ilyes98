@@ -7,13 +7,16 @@ I'm a full-stuck developer based in Paris :fr: .
 ### :wrench: Langages and Tools
 
 <code>JavaScript</code>
+<code>Python</code>
+<code>React.js</code>
+<code>Vue.js</code>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>Tryton</code>
 <code>HTML5</code>
 <code>CSS3</code>
 <code>SQL</code>
 <code>C</code>
-<code>C++</code>
-<code>React</code>
-<code>Node.js</code>
 
 ### 📊 GitHub stats
 
